@@ -6,8 +6,15 @@
     <description>Recent content on Eppie Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jan 2024 16:20:56 +0400</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 17:46:16 +0400</lastBuildDate>
     <atom:link href="https://eppieapp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy is Medieval</title>
+      <link>https://eppieapp.github.io/post/feudal/</link>
+      <pubDate>Tue, 23 Jan 2024 17:46:16 +0400</pubDate>
+      <guid>https://eppieapp.github.io/post/feudal/</guid>
+      <description>As bizarre as it sounds, privacy is the very concept that makes modern web look somewhat like feudalism.</description>
+    </item>
     <item>
       <title>Next-Gen Email Is on The Way</title>
       <link>https://eppieapp.github.io/post/nextgen/</link>
