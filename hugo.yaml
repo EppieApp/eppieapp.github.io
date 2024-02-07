@@ -1,0 +1,21 @@
+baseURL: 'https://blog.eppie.io/'
+languageCode: 'en-us'
+title: 'Eppie Blog'
+theme: 'PaperMod'
+copyright: "Copyright © 2024, Eppie.io; all rights reserved."
+
+params:
+  homeInfoParams:
+    Title: Hi there fellow tech enthusiast!
+    Content: Welcome to Eppie blog. Feel free to subscribe to our waiting list at Eppie homepage and join us on social media.
+
+  socialIcons:
+    - name: "homepage"
+      url: "https://eppie.io"
+    - name: "github"
+      url: "https://github.com/Eppie-io"
+    - name: "twitter"
+      url: "https://twitter.com/EppieApp"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/company/tuvisoft/"
+  
