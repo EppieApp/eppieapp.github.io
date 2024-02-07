@@ -1,0 +1,4 @@
+baseURL = 'https://eppieapp.github.io/'
+languageCode = 'en-us'
+title = 'Eppie Blog'
+theme = 'PaperMod'
