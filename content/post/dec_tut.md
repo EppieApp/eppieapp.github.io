@@ -1,7 +1,7 @@
 +++
 title = 'Try decentralized messaging in Eppie'
 date = 2024-07-01T17:43:59+04:00
-draft = true
+draft = false
 summary = 'A four step tutorial for using decentralized messaging in Eppie CLI'
 +++
 
