@@ -8,7 +8,7 @@ summary = 'A four step tutorial for using decentralized messaging in Eppie CLI'
 Hello!
 Today we are going to walk through decentralized messaging in Eppie CLI. To be honest it is 99% the same as using conventional email, and does not need its own tutorial, but let's say you haven't tried Eppie CLI at all.
 
-It is is not _real_ decentralized network right now. Just a small testnet we run on Azure cloud. But it's already there and worth a try, if you a waiting for this functionality. We'd like to share it because we'd be happy to see your feedback. So please do test it, and tell us what you think! It'll make us happy like this: 🥳🎉🦄
+It is is not _real_ decentralized network right now. Just a small testnet we run on Azure cloud. But it's already there and worth a try, if you a waiting for this functionality. Real users help tremendously with the development. The more of your feedback we have, the sooner the _real_ decentralized network comes live. So please do test it, and tell us what you think!
 
 ## Download and set up Eppie CLI
 
