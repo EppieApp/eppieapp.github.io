@@ -1,7 +1,7 @@
 +++
 title = 'Local AI Assistant in Email: How to Use'
 date = 2025-04-09T13:07:31+04:00
-draft = true
+draft = false
 summary = "We have added AI to Eppie. Let's talk about why and how to try it in the latest build."
 +++
 
