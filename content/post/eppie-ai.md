@@ -55,7 +55,8 @@ Go ahead and experiment with the settings.
 
 Connect more agents. It doesn’t really matter what you choose in the template menu – what matters is what you write in the prompt. 
 
-Try to chain them using the *Pre-processing* and *Post-processing* menus. You can, for example, use a translator agent as a post-processor, so whatever the main agent outputs is then translated to your native language.
+Try to chain agents using the *Pre-processing* and *Post-processing* menus. You can, for example, use a translator agent as a post-processor, so whatever the main agent outputs is then translated to your native language.
+
 Try adjusting the parameters *Top P*, *Top K*, *Temp*. In short, they determine the creativity of the model. If you set them too high, AI produces unreadable garbage; if too low – predictable responses. Somewhere in between, you can achieve something interesting.
 
 If you bind the agent to a specific mailbox, it will automatically perform its work with each incoming email.
