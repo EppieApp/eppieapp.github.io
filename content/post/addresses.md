@@ -5,7 +5,9 @@ draft = false
 summary = 'A four step tutorial for using decentralized messaging in Eppie CLI'
 +++
 
-So, we are building a peer-to-peer email system where users truly own their addresses and data. We’ve already talked [about data](https://hackernoon.com/privacy-is-medieval?ref=hackernoon.com) — today, let’s focus on addresses.
+{{< figure src="/addresses.png" >}}
+
+So, we are building a peer-to-peer email system where users truly own their addresses and data. We’ve already talked [about data](https://blog.eppie.io/post/feudal/) — today, let’s focus on addresses.
 
 ## Who owns your email address?
 
