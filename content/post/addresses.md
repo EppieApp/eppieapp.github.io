@@ -2,7 +2,7 @@
 title = 'A Letter to a Public Key: Rethinking Email Address Ownership'
 date = 2025-07-24T17:53:30+04:00
 draft = false
-summary = 'A four step tutorial for using decentralized messaging in Eppie CLI'
+summary = 'A deep dive into Eppie address sytem.'
 +++
 
 {{< figure src="/addresses.png" >}}
@@ -112,4 +112,4 @@ The address system in Eppie is generated directly on your device, independent of
 
 We believe that with the right tools and UX, true ownership can be simple. That’s the challenge we’re embracing.
 
-[Join the waitlist](https://eppie.io/?ref=hackernoon.com) and give us a [star GitHub](https://github.com/Eppie-io/Eppie-App?ref=hackernoon.com) — your support helps us grow. Thank you!
+[Join the waitlist](https://eppie.io/?ref=blog) and give us a [star GitHub](https://github.com/Eppie-io/Eppie-App?ref=blog) — your support helps us grow. Thank you!
