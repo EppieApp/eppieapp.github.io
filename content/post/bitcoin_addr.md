@@ -22,7 +22,7 @@ Money doesn’t exist without communication – any deal must be negotiated. And
 
 There’s another benefit: lowering the entry barrier for newcomers. A Bitcoin address in Eppie is essentially a “light wallet.” Which means that an email user automatically gets their own crypto wallet, only presented in the familiar terminology of an email address. For millions of people, this can be a natural and simple way to get started with crypto.
 
-{{< figure src="/btc_addr/userflow_1.png" >}}
+{{< figure src="/btc_addr/userflow_1.jpg" >}}
 
 Integration also makes it possible to exchange messages between regular email accounts and Bitcoin addresses. It works like this:
 
@@ -30,13 +30,13 @@ Integration also makes it possible to exchange messages between regular email ac
 * The email arrives at a bridge server, which accepts regular mail, encrypts it, and forwards it into the decentralized network.
 * The bridge routes it to Eppie, and the recipient gets the message at their Bitcoin address inside Eppie.
 
-{{< figure src="/btc_addr/userflow_2.png" >}}
+{{< figure src="/btc_addr/userflow_2.jpg" >}}
 
 In the future, we’ll release an Eppie library for wallet integration – so you’ll be able to receive emails directly in your wallet without even installing Eppie.
 
 Expect a whole lot of neat features: like the ability to attach payments to emails, or new email notifications right in your crypto wallet.
 
-{{< figure src="/btc_addr/userflow_3.png" >}}
+{{< figure src="/btc_addr/userflow_3.jpg" >}}
 
 
 ## How it looks in Eppie
